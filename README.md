@@ -4,7 +4,7 @@ Projeto final da discplina de Inteligência Artificial ministrada pelo Prof. Fab
 
 ### Problema e Objetivo
 
-Previsões de precipitação usam modelos numéricos que simulam a atmosfera, exigindo alto processamento e análise de meteorologistas. A Inteligência Artificial pode otimizar essas previsões, reduzindo a necessidade de recursos computacionais e ajudando a adaptar-se a padrões climáticos mais variáveis. O objetivo é explorar essa área e entender se é computacionalmente possível.
+Previsões de precipitação usam modelos numéricos que simulam a atmosfera, exigindo alto processamento e análise de meteorologistas. A Inteligência Artificial pode otimizar essas previsões, reduzindo a necessidade de recursos computacionais e ajudando a adaptar-se a padrões climáticos mais variáveis. O objetivo é explorar essa área e entender se é computacionalmente viável futuras pesquisas na área.
 
 
 ### Artigo e Apresentação
