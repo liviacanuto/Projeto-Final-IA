@@ -11,3 +11,7 @@ Previsões de precipitação usam modelos numéricos que simulam a atmosfera, ex
 
 * [Clique aqui](https://github.com/liviacanuto/Projeto-Final-IA/blob/main/Relat%C3%B3rioFinal_IA1s2024_GabriellyVLSena_164912_LiviaBACFdePaula_164921_ICT_UNIFESP.pdf) para ver o artigo que foi escrito com esse trabalho.
 * [Clique aqui](https://www.canva.com/design/DAGPoruAFYs/f4RhEkNdQnBBPQ6gjyewgA/view?utm_content=DAGPoruAFYs&utm_campaign=designshare&utm_medium=link&utm_source=editor) para ver a apresentação de slides referente à esse projeto.
+
+### Autoras
+* Livia Canuto - [GitHub](https://github.com/liviacanuto)
+* Gabrielly Sena - [GitHub](https://github.com/gabivlss)
